@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'Horizon-eduapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f61e6c381e6a424597c56e5fd4e5ad9a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5e7682869b644ff2b85e15fb63f97b2e }}
         package: .
